@@ -1,1 +1,1 @@
-<img src="images/bg.png>
+<img src="bg.png">
